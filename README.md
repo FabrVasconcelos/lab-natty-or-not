@@ -19,7 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
+
 # Novo PodCast da vez 
 
 ## 📒 Descrição
@@ -35,12 +35,14 @@ Usei um prompt simples no GTP de "Por favor, Crie um roteiro de um podcast solo
 Com o resultado solicitei para deixa apenas o texto puro sem os detalhes de audio e coloquei o texto no Elevenlab, para a imagem utilizei o mesmo prompt do GPT
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/FabrVasconcelos/lab-natty-or-not/blob/dev/GPT%20Response%20podcast.txt
+https://github.com/FabrVasconcelos/lab-natty-or-not/blob/dev/Capa%20do%20podcast.png
+https://github.com/FabrVasconcelos/lab-natty-or-not/blob/dev/ElevenLabs_PodCast.mp3
 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
